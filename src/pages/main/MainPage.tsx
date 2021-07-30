@@ -32,7 +32,7 @@ function MainPage() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            CV
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
